@@ -15,6 +15,29 @@ A modern task management application built with Flutter that helps you organize 
 - 🎨 Clean and intuitive user interface
 - 📱 Responsive design for all screen sizes
 
+## Timeline Estimation
+
+### Phase 1: Core Features (9-10 Hours)
+- [x] Project setup and architecture implementation
+- [x] Basic task CRUD operations
+- [x] Local storage implementation
+- [x] Task status management
+- [x] Basic UI implementation
+
+### Phase 2: Enhanced Features (7-8 Hours)
+- [x] Task filtering by status
+- [x] Task sorting functionality
+- [x] Due date management
+- [x] UI/UX improvements
+- [x] Error handling and validation
+
+### Phase 3: Testing & Optimization (8-10 Hours)
+- [x] Unit tests implementation
+- [x] Widget tests
+- [x] Integration tests
+- [x] Performance optimization
+- [x] Code documentation
+
 ## Getting Started
 
 ### Prerequisites
